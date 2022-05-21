@@ -1,5 +1,5 @@
 
-[<img alt="alt_text" src="[https://github.com/JaiUnePoteDev/Femmes-Sous-Couverture/blob/main/FSC%20banner.jpg]" />](https://github.com/JaiUnePoteDev/Femmes-Sous-Couverture/blob/main/FSC%20banner.jpg)
+![Bannière](https://github.com/JaiUnePoteDev/Femmes-Sous-Couverture/blob/main/FSC%20banner.jpg)
 
 # Femmes-Sous-Couverture
 Site féministe contribuant à mettre en lumière des femmes invisibilisées
